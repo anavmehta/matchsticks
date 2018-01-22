@@ -1,3 +1,11 @@
+/***************************************************************************
+ *                                                                         *
+ *   Copyright (C) 2017 by Anav Mehta                                      *
+ *                                                                         *
+ *   http://3dwaffles.blogspot.com/2018/01/matchstick-game.html                                        *
+ *                                                                         *
+ ***************************************************************************/
+
 #include <iostream>
 using namespace std;
 
